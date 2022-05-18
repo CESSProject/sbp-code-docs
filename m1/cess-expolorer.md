@@ -1,4 +1,4 @@
-# Code Ducumentation of CESS Explorer
+# Code Documentation of CESS Explorer
 
 ## Introduction
 
