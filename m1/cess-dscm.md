@@ -117,9 +117,15 @@ The ratio of 1024 MB to the free space on the chain is how much TCESS it is wort
 			}
 ```
 
-### 7. Testing
+### 7. How to test
 
 git clone [https://github.com/CESSProject/cess.git](https://github.com/CESSProject/cess.git)
 Execute the cargo test command in the cess root directory
 
  ` cargo test `
+
+![image.png](https://cdn.nlark.com/yuque/0/2022/png/22121693/1652872157717-d26f6b90-4c0f-4166-86fb-78e0cd926b0d.png#clientId=uaba2ddf5-fede-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=383&id=u778ea806&margin=%5Bobject%20Object%5D&name=image.png&originHeight=383&originWidth=833&originalType=binary&ratio=1&rotation=0&showTitle=false&size=60879&status=done&style=none&taskId=ub0e6ed01-0465-4973-ada2-420959de595&title=&width=833)
+
+![image.png](https://cdn.nlark.com/yuque/0/2022/png/22121693/1652872179572-94bb1b1e-d430-4a3c-8c28-3bec66205da0.png#clientId=uaba2ddf5-fede-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=168&id=ysRjH&margin=%5Bobject%20Object%5D&name=image.png&originHeight=168&originWidth=818&originalType=binary&ratio=1&rotation=0&showTitle=false&size=22763&status=done&style=none&taskId=u94fc27f9-1898-4a57-a014-78093152905&title=&width=818)
+
+![image.png](https://cdn.nlark.com/yuque/0/2022/png/22121693/1652872208564-9e51743b-8ccc-44fb-bb47-ee3b4c9a4705.png#clientId=uaba2ddf5-fede-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=245&id=Or8xC&margin=%5Bobject%20Object%5D&name=image.png&originHeight=245&originWidth=836&originalType=binary&ratio=1&rotation=0&showTitle=false&size=35390&status=done&style=none&taskId=u0a02784e-a4fb-4adc-8be6-9e240d8695b&title=&width=836)
